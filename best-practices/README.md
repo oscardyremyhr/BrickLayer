@@ -9,8 +9,8 @@ Here you will find a culmination of best-practice guides from the community, and
 - [Clusters](/Platform/Clusters.md)
 - [Unioty Catalog](/Platform/Unity.md)
 
-## Guides relating to the Architecture (Infrastructure)
-- [AWS](/Cloud%20Provider/AWS.md)
-- [Azure](/Cloud%20Provider/Azure.md)
-- [GCP](/Cloud%20Provider/GCP.md)
+## Guides relating to the Cloud Vendor
+- [AWS](/Vendor/AWS.md)
+- [Azure](/Vendor/Azure.md)
+- [GCP](/Vendor/GCP.md)
   

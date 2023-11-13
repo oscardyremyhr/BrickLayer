@@ -1,7 +1,8 @@
 # Guides
 
-- [Notebooks](/Notebooks.md)
-- [Jobs](/Jobs.md)
-- [Workflows](/Workflows.md)
-- [Clusters](/Clusters.md)
-- [Unioty Catalog](/Unity.md)
+## Guides relating to the Databricks Platform
+- [Notebooks](/Platform/Notebooks.md)
+- [Jobs](/Platform/Jobs.md)
+- [Workflows](/Platform/Workflows.md)
+- [Clusters](/Platform/Clusters.md)
+- [Unioty Catalog](/Platform/Unity.md)

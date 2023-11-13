@@ -28,7 +28,7 @@ BrickLayer is dedicated to providing a comprehensive collection of tools and gui
 
 ## Contributing
 
-We encourage contributions from the Databricks community. Whether it's a new feature, a bug fix, or a guide, your input is valuable. Please refer to our [8contribution guidelines](CONTRIBUTE.md) for more information on making a submission.
+We encourage contributions from the Databricks community. Whether it's a new feature, a bug fix, or a guide, your input is valuable. Please refer to our [8contribution guidelines](CONTRIBUTING.md) for more information on making a submission.
 
 ## Support
 

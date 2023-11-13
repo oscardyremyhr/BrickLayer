@@ -10,7 +10,7 @@ Here you will find a culmination of best-practice guides from the community, and
 - [Unioty Catalog](/Platform/Unity.md)
 
 ## Guides relating to the Architecture (Infrastructure)
-- [Azure](/Azure)
-- [AWS](/AWS)
-- [GCP](/GCP)
+- [AWS](/Cloud%20Provider/AWS.md)
+- [Azure](/Cloud%20Provider/Azure.md)
+- [GCP](/Cloud%20Provider/GCP.md)
   
